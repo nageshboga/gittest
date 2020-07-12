@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1><font color="#5555FF">Nagesh - git test - publish over ssh</font></h1>
-    <h1><font color="#5555FF">Nagesh - Stop and start tomcats</font></h1>
-     <h1><font color="#5555FF">Execute commands in remote</font></h1>
+    <h1><font color="#5555FF">Nagesh - Stop and Start tomcats</font></h1>
+     <h1><font color="#5555FF">Execute commands in Remote Servers</font></h1>
 </body>
 </html>
